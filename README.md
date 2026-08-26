@@ -1,46 +1,99 @@
-Olá! Eu sou Thais Santos 👋
-👩‍💻 Sobre mim
+# 👋 Olá! Eu sou Thais Santos
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software.
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente, estou desenvolvendo meus conhecimentos em programação, lógica, desenvolvimento web e engenharia de software, buscando transformar ideias em soluções práticas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software.
 
-Estou sempre em busca de novos desafios e oportunidades para aprender, desenvolver projetos e crescer profissionalmente na área de tecnologia.
-🛠️ Tecnologias e Ferramentas
-Linguagens: C, HTML, CSS e JavaScript
-Desenvolvimento: Lógica de Programação e Desenvolvimento Web
-Ferramentas: Git e GitHub
-Metodologias: Scrum e Metodologias Ágeis
-Modelagem: UML e BPMN
-🚀 Projetos
+Atualmente, estou desenvolvendo meus conhecimentos em **programação, lógica, desenvolvimento web e engenharia de software**, buscando transformar ideias em soluções práticas e funcionais.
 
-🎵 Gerador de Letras de Música com IA
+### 🚀 Aprendendo, criando e evoluindo todos os dias!
 
-Projeto acadêmico de uma aplicação web desenvolvida para auxiliar na criação de letras de músicas utilizando Inteligência Artificial e técnicas de Prompt Engineering.
+---
 
-💻 Projetos de Programação
+## 👩‍💻 Sobre mim
 
-Exercícios e projetos desenvolvidos durante minha graduação em ADS, com foco em lógica de programação, resolução de problemas e desenvolvimento de sistemas.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Interesse em Desenvolvimento de Software
+🧠 Interesse em Lógica de Programação
+🌐 Interesse em Desenvolvimento Web
+🚀 Buscando desenvolver projetos para meu portfólio
+📚 Sempre aprendendo novas tecnologias e conceitos
+💡 Gosto de transformar problemas em soluções através da tecnologia
 
-🎓 Formação
 
-Análise e Desenvolvimento de Sistemas — ADS
+### 💻 Linguagens
 
-Estudante de graduação
+C
+Python
+HTML5
 
-📚 Atualmente estudando
-Lógica de programação
-Linguagem C
-Desenvolvimento Web
-Banco de Dados
-Engenharia de Software
-UML e BPMN
-Metodologias Ágeis
-Inteligência Artificial
-📫 Contato
+### 🔧 Ferramentas
 
-🔗 GitHub: github.com/Thaizsantos
+Git
+GitHub
 
-🔗 LinkedIn: www.linkedin.com/in/thaissantos-des
+---
 
-⭐ Obrigada por visitar meu perfil!
+## 🚀 Projetos
+
+### 💻 Projetos Acadêmicos
+
+Projetos desenvolvidos durante minha graduação em ADS, com foco em programação, lógica, desenvolvimento de sistemas e resolução de problemas.
+
+### 🧠 Lógica de Programação
+
+Exercícios e projetos desenvolvidos para praticar algoritmos, estruturas condicionais, estruturas de repetição e fundamentos da programação.
+
+### 🌐 Desenvolvimento Web
+
+Projetos voltados para criação de páginas e aplicações web, explorando HTML, estrutura de páginas e conceitos de desenvolvimento front-end.
+
+### 🚧 Novos projetos em desenvolvimento...
+
+Estou constantemente desenvolvendo novos projetos para colocar em prática os conhecimentos adquiridos durante minha graduação.
+
+---
+
+## 📚 Atualmente estudando
+
+💻 Análise e Desenvolvimento de Sistemas
+🧠 Lógica de Programação
+⚙️ Linguagem C
+🐍 Python
+🌐 HTML e Desenvolvimento Web
+🔧 Git e GitHub
+📐 Engenharia de Software
+🗂️ Modelagem de Sistemas
+
+---
+
+## 🎯 Meus objetivos
+
+Meu objetivo é construir uma carreira na área de tecnologia e me desenvolver profissionalmente como **desenvolvedora de software**.
+
+Quero continuar aprimorando meus conhecimentos, desenvolver projetos cada vez mais completos e construir um portfólio que demonstre minha evolução durante minha jornada acadêmica.
+
+Acredito que cada projeto é uma oportunidade de aprender algo novo, colocar conhecimentos em prática e evoluir profissionalmente.
+
+> **"Aprender, praticar, criar e evoluir." 🚀**
+
+
+
+## 📫 Vamos nos conectar?
+
+📧 **E-mail: thaizz.santos2020@icloud.com
+
+💼 **LinkedIn: www.linkedin.com/in/thaissantos-des
+
+🐙 **GitHub:** [Thaizsantos](https://github.com/Thaizsantos)
+
+---
+
+### 💜 Obrigada por visitar meu perfil!
+
+⭐ Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.
+
+
+
+
+
