@@ -24,18 +24,14 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, lógica, 
 ### 💻 Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ### 🔧 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) II
 
-Git
-GitHub
 
 ---
 
@@ -88,7 +84,8 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo, colocar con
 
 📧 **E-mail: thaizz.santos2020@icloud.com
 
-💼 **LinkedIn: www.linkedin.com/in/thaissantos-des
+💼 black)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/thaissantos-des
 
 🐙 **GitHub:** [Thaizsantos](https://github.com/Thaizsantos)
 
