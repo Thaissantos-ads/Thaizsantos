@@ -15,9 +15,11 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 
 ### 💻 Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+[Python](https://skillicons.dev/icons?i=python)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 
 ### 🔧 Ferramentas
@@ -36,12 +38,6 @@ Exercícios e projetos desenvolvidos para fortalecer meus conhecimentos em progr
 🎨 Projetos de UI/UX
 
 Projetos focados em interfaces, prototipagem e experiência do usuário, utilizando conceitos de UI/UX e Figma.
-
-![Python](https://skillicons.dev/icons?i=python)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
 
 
 🚧 Novos projetos em desenvolvimento...
