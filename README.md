@@ -25,18 +25,21 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) II
 
 
-📚 Atualmente estudando
+🐍 Projetos em Python
 
-💻 Análise e Desenvolvimento de Sistemas
-🧠 Lógica de Programação
-⚙️ Linguagem C
-🐍 Python
-🌐 HTML e Desenvolvimento Web
-🔧 Git e GitHub
-📐 Engenharia de Software
-🗂️ Modelagem de Sistemas
+Projetos e exercícios desenvolvidos para praticar lógica de programação, algoritmos, estruturas de dados e resolução de problemas.
 
----
+⚙️ Projetos em C
+
+Exercícios e projetos desenvolvidos para fortalecer meus conhecimentos em programação e fundamentos da computação.
+
+🎨 Projetos de UI/UX
+
+Projetos focados em interfaces, prototipagem e experiência do usuário, utilizando conceitos de UI/UX e Figma.
+
+🚧 Novos projetos em desenvolvimento...
+📚 Atualmente Estudando 🐍 Python ⚙️ C 🌐 HTML 🎨 UI/UX 🧠 Lógica de Programação 💻 Desenvolvimento de Sistemas 🚀 Projetos para Portfólio.
+
 
 🎯 Meus objetivos
 Construir uma carreira na área de tecnologia, aprimorar meus conhecimentos e criar um portfólio que demonstre minha evolução como desenvolvedora.
@@ -45,13 +48,10 @@ Construir uma carreira na área de tecnologia, aprimorar meus conhecimentos e cr
 
 📫 Vamos nos conectar?
 
-📧 thaizz.santos2020@icloud.com
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-www.linkedin.com/in/thaissantos-des
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Thaizsantos](https://github.com/Thaizsantos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaizz.santos2020@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaissantos-ads/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511916290185)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thaissantos-ads)
 
 
 💜 Obrigada por visitar meu perfil!
