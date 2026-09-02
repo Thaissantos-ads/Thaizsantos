@@ -14,7 +14,7 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 	•	💡 Gosto de transformar problemas em soluções através da tecnologia
 
 
-          ### 💻 Linguagens
+  💻 Linguagens
 
   ![Python](https://skillicons.dev/icons?i=python)
   ![HTML5](https://skillicons.dev/icons?i=html)
