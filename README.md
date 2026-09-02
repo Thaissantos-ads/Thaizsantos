@@ -1,24 +1,15 @@
-# 👋 Olá! Eu sou Thais Santos
+# 👋 Olá 
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software. Estou desenvolvendo meus conhecimentos em lógica, programação e desenvolvimento web, buscando transformar ideias em soluções práticas.
+🚀 Aprendendo, criando e evoluindo todos os dias!
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software.
-
-Atualmente, estou desenvolvendo meus conhecimentos em **programação, lógica, desenvolvimento web e engenharia de software**, buscando transformar ideias em soluções práticas e funcionais.
-
-### 🚀 Aprendendo, criando e evoluindo todos os dias!
-
----
-
-## 👩‍💻 Sobre mim
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Interesse em Desenvolvimento de Software
-🧠 Interesse em Lógica de Programação
-🌐 Interesse em Desenvolvimento Web
-🚀 Buscando desenvolver projetos para meu portfólio
-📚 Sempre aprendendo novas tecnologias e conceitos
-💡 Gosto de transformar problemas em soluções através da tecnologia
+👩‍💻 Sobre mim
+	•	🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+	•	🧠 Interesse em Lógica de Programação e Desenvolvimento de Software
+	•	🌐 Interesse em Desenvolvimento Web
+	•	📚 Sempre aprendendo novas tecnologias e conceitos
+	•	💡 Gosto de transformar problemas em soluções através da tecnologia
 
 
 ### 💻 Linguagens
@@ -33,29 +24,7 @@ Atualmente, estou desenvolvendo meus conhecimentos em **programação, lógica, 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) II
 
 
----
-
-## 🚀 Projetos
-
-### 💻 Projetos Acadêmicos
-
-Projetos desenvolvidos durante minha graduação em ADS, com foco em programação, lógica, desenvolvimento de sistemas e resolução de problemas.
-
-### 🧠 Lógica de Programação
-
-Exercícios e projetos desenvolvidos para praticar algoritmos, estruturas condicionais, estruturas de repetição e fundamentos da programação.
-
-### 🌐 Desenvolvimento Web
-
-Projetos voltados para criação de páginas e aplicações web, explorando HTML, estrutura de páginas e conceitos de desenvolvimento front-end.
-
-### 🚧 Novos projetos em desenvolvimento...
-
-Estou constantemente desenvolvendo novos projetos para colocar em prática os conhecimentos adquiridos durante minha graduação.
-
----
-
-## 📚 Atualmente estudando
+📚 Atualmente estudando
 
 💻 Análise e Desenvolvimento de Sistemas
 🧠 Lógica de Programação
@@ -68,19 +37,12 @@ Estou constantemente desenvolvendo novos projetos para colocar em prática os co
 
 ---
 
-## 🎯 Meus objetivos
-
-Meu objetivo é construir uma carreira na área de tecnologia e me desenvolver profissionalmente como **desenvolvedora de software**.
-
-Quero continuar aprimorando meus conhecimentos, desenvolver projetos cada vez mais completos e construir um portfólio que demonstre minha evolução durante minha jornada acadêmica.
-
-Acredito que cada projeto é uma oportunidade de aprender algo novo, colocar conhecimentos em prática e evoluir profissionalmente.
-
-> **"Aprender, praticar, criar e evoluir." 🚀**
+🎯 Meus objetivos
+Construir uma carreira na área de tecnologia, aprimorar meus conhecimentos e criar um portfólio que demonstre minha evolução como desenvolvedora.
+“Aprender, praticar, criar e evoluir.” 🚀
 
 
-
-## 📫 Vamos nos conectar?
+📫 Vamos nos conectar?
 
 📧 **E-mail: thaizz.santos2020@icloud.com
 
@@ -88,9 +50,8 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo, colocar con
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Thaizsantos](https://github.com/Thaizsantos)
 
----
 
-### 💜 Obrigada por visitar meu perfil!
+💜 Obrigada por visitar meu perfil!
 
 ⭐ Fique à vontade para explorar meus projetos e acompanhar minha evolução na área de tecnologia.
 
