@@ -15,7 +15,7 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 
 ### 💻 Linguagens
 
-[Python](https://skillicons.dev/icons?i=python)
+![Python](https://skillicons.dev/icons?i=python)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![C](https://skillicons.dev/icons?i=c)
