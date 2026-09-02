@@ -5,6 +5,7 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 🚀 Aprendendo, criando e evoluindo todos os dias!
 
 👩‍💻 Sobre mim
+
 	•	🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 	•	🧠 Interesse em Lógica de Programação e Desenvolvimento de Software
 	•	🌐 Interesse em Desenvolvimento Web
