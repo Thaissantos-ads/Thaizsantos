@@ -84,10 +84,9 @@ Acredito que cada projeto é uma oportunidade de aprender algo novo, colocar con
 
 📧 **E-mail: thaizz.santos2020@icloud.com
 
-💼 black)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)www.linkedin.com/in/thaissantos-des
 
-🐙 **GitHub:** [Thaizsantos](https://github.com/Thaizsantos)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Thaizsantos](https://github.com/Thaizsantos)
 
 ---
 
