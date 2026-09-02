@@ -1,7 +1,8 @@
 # 👋 Olá 
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas
-Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software. Estou desenvolvendo meus conhecimentos em lógica, programação e desenvolvimento web, buscando transformar ideias em soluções práticas.
+Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento de software. Estou desenvolvendo meus conhecimentos em lógica, programação e desenvolvimento web, buscando transformar ideias em soluções práticas
+
 🚀 Aprendendo, criando e evoluindo todos os dias!
 
 👩‍💻 Sobre mim
@@ -13,13 +14,13 @@ Apaixonada por tecnologia e em constante aprendizado na área de desenvolvimento
 	•	💡 Gosto de transformar problemas em soluções através da tecnologia
 
 
-### 💻 Linguagens
+          ### 💻 Linguagens
 
-![Python](https://skillicons.dev/icons?i=python)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![HTML5](https://skillicons.dev/icons?i=html)
+  ![CSS3](https://skillicons.dev/icons?i=css)
+  ![C](https://skillicons.dev/icons?i=c)
+  ![C++](https://skillicons.dev/icons?i=cpp)
 
 
 ### 🔧 Ferramentas
